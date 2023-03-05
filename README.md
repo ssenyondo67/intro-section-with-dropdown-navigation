@@ -24,7 +24,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 ### Links
 
 - Solution URL:https://github.com/ssenyondo67/intro-section-with-dropdown-navigation
-- Live Site URL: 
+- Live Site URL: https://intro-section-with-dropdown-navigation-pearl-nu.vercel.app/
 
 ## My process
 
